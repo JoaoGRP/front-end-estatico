@@ -7,3 +7,5 @@ vou implementar funcionalidades com o decorrer do curso.
 
 
 Meu objetivo final será torná-lo base para um projeto totalmente funcional.
+
+https://joaogrp.github.io/front-end-estatico/
